@@ -7,15 +7,10 @@
     <list default="true" id="21b3e8d4-d641-4dbc-aa63-9801a1a072b5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../hr-payroll/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/example/hrpayroll/HrPayrollApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/example/hrpayroll/HrPayrollApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/example/hrpayroll/resources/PaymentResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/example/hrpayroll/resources/PaymentResource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hr-payroll/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr-worker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-worker.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hrworker/HrWorkerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hrworker/HrWorkerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
