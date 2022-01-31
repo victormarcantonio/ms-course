@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21b3e8d4-d641-4dbc-aa63-9801a1a072b5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../hr-api-gateway-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oauth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-oauth/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/example/hroauth/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/example/hroauth/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/example/hroauth/config/AuthorizationServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-oauth/src/main/java/com/example/hroauth/config/AuthorizationServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/java/com/example/hrapigatewayzuul/config/ResourceServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/java/com/example/hrapigatewayzuul/config/ResourceServerConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/hrworker/resources/WorkerResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/hrworker/resources/WorkerResource.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
