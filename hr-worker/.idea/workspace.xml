@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21b3e8d4-d641-4dbc-aa63-9801a1a072b5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-api-gateway-zuul/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oauth/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-oauth/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-oauth/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-oauth/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-payroll/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-user/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-user/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-user/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-user/src/main/resources/bootstrap.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bootstrap.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

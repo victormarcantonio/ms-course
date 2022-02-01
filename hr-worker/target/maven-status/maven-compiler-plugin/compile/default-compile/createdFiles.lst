@@ -1,0 +1,4 @@
+com/example/hrworker/resources/WorkerResource.class
+com/example/hrworker/HrWorkerApplication.class
+com/example/hrworker/entities/Worker.class
+com/example/hrworker/repositories/WorkerRepository.class
